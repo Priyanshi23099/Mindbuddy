@@ -23,6 +23,6 @@ AI Services: OpenAI, WhishperAI
 Node.js and npm installed on your local machine.
 # Installation
 Clone the repository:
-git clone https://github.com/Priyanshi230999/Mindbuddy.git
+git clone https://github.com/Priyanshi23099/Mindbuddy.git
 
 
